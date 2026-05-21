@@ -1,9 +1,0 @@
-{
-	"servers": {
-		"my-mcp-server-8ccc029e": {
-			"url": "https://mcp.wayfinder.atrius.com/A18L64IIIUQX7L?venueId=phx",
-			"type": "http"
-		}
-	},
-	"inputs": []
-}
