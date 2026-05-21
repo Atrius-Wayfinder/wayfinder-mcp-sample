@@ -1,6 +1,6 @@
-# Wayfinder MCP Demo
+# Wayfinder MCP Sample
 
-Demos for integrating the [Wayfinder](https://atrius.com) MCP server with Azure OpenAI in a React chat UI.
+Samples for integrating the [Wayfinder](https://atrius.com) MCP server with Azure OpenAI in a React chat UI.
 
 ## Approaches
 
